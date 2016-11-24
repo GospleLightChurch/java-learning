@@ -7,5 +7,8 @@ package org.gyt.task;
  * Created by y27chen on 2016/11/16.
  */
 public interface Task3 extends Task {
-    String getValues();
+    String getValues(int num);
 }
+
+
+
