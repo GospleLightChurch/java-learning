@@ -10,6 +10,6 @@ package org.gyt.task;
  * n=8: 1,1,2,3,5,8,13,21
  * Created by y27chen on 2016/11/16.
  */
-public interface Task4 extends Task {
+public interface Task4 {
     String getFib(int number);
 }
