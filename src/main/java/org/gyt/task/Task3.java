@@ -10,3 +10,6 @@ package org.gyt.task;
 public interface Task3 extends Task {
     String getValues(int count);
 }
+
+
+
